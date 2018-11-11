@@ -1,9 +1,5 @@
 # rpcm
 
-Basics Crucial Mode logic
+Basic Crucial Mode logic
 
-Development
------------
-
-    # setup commit template
-    git config commit.template .git-commit-template
+Documentation is available at [rpcm-org.github.io](https://rpcm-org.github.io/)
