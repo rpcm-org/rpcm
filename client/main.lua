@@ -1,1 +1,4 @@
-print ("Hello World! I am client.")
+AddEventHandler('onClientMapStart', function()
+    TriggerServerEvent('playerSpawned')
+    TriggerEvent('playerSpawned')
+end)
